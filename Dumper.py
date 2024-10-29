@@ -73,7 +73,7 @@ def main():
 
     # Display the shareable link
     if shareable_link:
-        print(f"File(s) uploaded successfully. Shareable URL: {shareable_link}")
+        print(f"\n\033[92m        author: @Un9nplayer https://github.com/un9nplayer \n\n\033[0m        File(s) uploaded successfully. Shareable URL: {shareable_link}\n\n")
 
         # Send a message to Discord
         discord_webhook_url = 'https://discord.com/api/webhooks/YOUR_WEBHOOK_URL'
