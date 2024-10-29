@@ -1,4 +1,5 @@
-# Dumper
+# Dumper 
+![Example Image](https://raw.githubusercontent.com/un9nplayer/Dumper/refs/heads/main/F.ico)
 
 **Dumper** is a Python script that compresses files or directories into a ZIP file, uploads them to [file.io](https://www.file.io/) for easy sharing, and generates a shareable link. Additionally, Dumper sends a notification with the download link to a specified Discord webhook, making it convenient for collaborative workflows or quick file sharing.
 
